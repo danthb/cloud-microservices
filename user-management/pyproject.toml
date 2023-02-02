@@ -1,0 +1,12 @@
+[project]
+name = "user-management"
+version = "1.0.0"
+description = "User management service"
+readme = "README.md"
+requires-python = "3.11"
+authors = [
+  {name = "Hector Tenezaca", email = "h.tenezaca@uniandes.edu.co"}
+]
+maintainers = [
+  {name = "@", email = "@"}
+]
